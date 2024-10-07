@@ -1,0 +1,13 @@
+.titulo{
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+img{
+    width: 15vw !important;
+}
+
+.descripcion, .botones{
+    margin-right: 15px;
+    margin-left: 15px;
+}

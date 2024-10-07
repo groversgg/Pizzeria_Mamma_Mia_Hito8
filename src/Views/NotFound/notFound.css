@@ -1,0 +1,16 @@
+img{
+    width: 55% !important;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.enlace{
+    text-decoration: none !important;
+    color: aliceblue !important;
+    
+}
